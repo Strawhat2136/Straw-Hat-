@@ -1,4 +1,4 @@
-streamlit
+import streamlit as st
 
 # セッション初期化
 if "step" not in st.session_state:
